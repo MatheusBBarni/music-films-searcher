@@ -1,8 +1,8 @@
 # BACK-END
- # SERVER
+ ## SERVER
   [X] install all dependencies
   [] setup express
- # DATABASE
+ ## DATABASE
   [] create a localhost DB
   [] create enties
 
